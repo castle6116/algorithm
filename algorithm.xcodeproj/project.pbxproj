@@ -13,6 +13,9 @@
 		DE6982A228BDF6C400909884 /* 1676.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6982A128BDF6C400909884 /* 1676.swift */; };
 		DE6982A428BF02F400909884 /* 9375.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6982A328BF02F400909884 /* 9375.swift */; };
 		DE6982A628BF411600909884 /* 2004.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6982A528BF411600909884 /* 2004.swift */; };
+		DE77CB4F28D1A35E000DEAB9 /* 3085.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE77CB4E28D1A35E000DEAB9 /* 3085.swift */; };
+		DE77CB5128D1BF67000DEAB9 /* 1748.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE77CB5028D1BF67000DEAB9 /* 1748.swift */; };
+		DE77CB5328D1C286000DEAB9 /* 9095.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE77CB5228D1C286000DEAB9 /* 9095.swift */; };
 		DEA264E528B88A9C00669708 /* 25305.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA264E428B88A9C00669708 /* 25305.swift */; };
 		DEA264E728B88AA900669708 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA264E628B88AA900669708 /* main.swift */; };
 		DEA264EC28B89E9500669708 /* 10845.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA264EB28B89E9500669708 /* 10845.swift */; };
@@ -76,6 +79,9 @@
 		DE6982A128BDF6C400909884 /* 1676.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1676.swift; sourceTree = "<group>"; };
 		DE6982A328BF02F400909884 /* 9375.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9375.swift; sourceTree = "<group>"; };
 		DE6982A528BF411600909884 /* 2004.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2004.swift; sourceTree = "<group>"; };
+		DE77CB4E28D1A35E000DEAB9 /* 3085.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3085.swift; sourceTree = "<group>"; };
+		DE77CB5028D1BF67000DEAB9 /* 1748.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1748.swift; sourceTree = "<group>"; };
+		DE77CB5228D1C286000DEAB9 /* 9095.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9095.swift; sourceTree = "<group>"; };
 		DE79E80B286C244400335047 /* 10815.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10815.swift; sourceTree = "<group>"; };
 		DE79E80D286C3BCF00335047 /* 14425.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 14425.swift; sourceTree = "<group>"; };
 		DE79E80F286C3EAE00335047 /* 1620.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1620.swift; sourceTree = "<group>"; };
@@ -173,6 +179,9 @@
 		DE9A02FC28477DC80005212B /* 풀이 완료 파일 */ = {
 			isa = PBXGroup;
 			children = (
+				DE77CB5028D1BF67000DEAB9 /* 1748.swift */,
+				DE77CB4E28D1A35E000DEAB9 /* 3085.swift */,
+				DEAB42E728D07033001B9814 /* 1476.swift */,
 				DE17C75228D01E1F0081E183 /* 2309.swift */,
 				DEEA4AC428C0A8D000818A7E /* 9184.swift */,
 				DE6982A528BF411600909884 /* 2004.swift */,
@@ -288,7 +297,7 @@
 				DEA264E628B88AA900669708 /* main.swift */,
 				DEEA4AC628C19FDB00818A7E /* 25044.swift */,
 				DEDA6EA228C5C0FA00722353 /* 15649.swift */,
-				DEAB42E728D07033001B9814 /* 1476.swift */,
+				DE77CB5228D1C286000DEAB9 /* 9095.swift */,
 				DE69829F28BDF6B500909884 /* 덜 푼 문제 */,
 				DE69829E28BDF6A700909884 /* 한번 더 생각해볼 문제 */,
 				DEA2650028BB8C1B00669708 /* 풀이 필기 */,
@@ -370,13 +379,16 @@
 				DEA264F028B8A72A00669708 /* 2164.swift in Sources */,
 				DEA264EC28B89E9500669708 /* 10845.swift in Sources */,
 				DEA264F628B8B2A300669708 /* 1966.swift in Sources */,
+				DE77CB5128D1BF67000DEAB9 /* 1748.swift in Sources */,
 				DE6982A228BDF6C400909884 /* 1676.swift in Sources */,
 				DE17C75328D01E200081E183 /* 2309.swift in Sources */,
 				DEA264E728B88AA900669708 /* main.swift in Sources */,
+				DE77CB5328D1C286000DEAB9 /* 9095.swift in Sources */,
 				DEA264F428B8B28800669708 /* fileIO.swift in Sources */,
 				DEDA6EA328C5C0FA00722353 /* 15649.swift in Sources */,
 				DEA264E528B88A9C00669708 /* 25305.swift in Sources */,
 				DE6982A628BF411600909884 /* 2004.swift in Sources */,
+				DE77CB4F28D1A35E000DEAB9 /* 3085.swift in Sources */,
 				DEEA4ABC28C0809C00818A7E /* 24416.swift in Sources */,
 				DEA264F828B8C83200669708 /* 11866.swift in Sources */,
 				DE6982A428BF02F400909884 /* 9375.swift in Sources */,
