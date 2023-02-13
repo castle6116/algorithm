@@ -1,0 +1,16 @@
+disabled_rules:
+- line_length
+- trailing_whitespace
+- cyclomatic_complexity
+- function_body_length
+- file_length
+- type_body_length
+- identifier_name
+- comment_spacing
+- force_cast
+- type_name
+
+included:
+
+excluded:
+- Pods
